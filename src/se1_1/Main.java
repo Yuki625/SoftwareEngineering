@@ -6,6 +6,6 @@ public class Main {
 
 		System.out.println("いちご");
 		System.out.println("甘くて美味しい");
-		System.out.println("見た目も可愛い");
+		System.out.println("私も大好き！！byゆき");
 	}
 }
